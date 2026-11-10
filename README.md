@@ -6,11 +6,6 @@ converts their pixel coordinates into its own coordinate frame, and sorts them i
 
 ## Demo
 
-https://github.com/<your-username>/vision-pick-and-place-dobot/raw/main/pick_and_place_demo.mp4
-
-67 seconds, unedited. The green mat is the calibration grid; the four red blocks at known grid
-positions are the reference markers.
-
 [Watch the demo](pick_and_place_demo.mp4) — 67 seconds, unedited.
 The green mat is the calibration grid; the four red blocks at known grid positions
 are the reference markers.
