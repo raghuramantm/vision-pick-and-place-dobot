@@ -6,7 +6,7 @@ converts their pixel coordinates into its own coordinate frame, and sorts them i
 
 ## Demo
 
-Click and download to [Watch the demo](pick_and_place_demo.mp4) — 67 seconds, unedited.
+Download the demo video [Watch the demo](pick_and_place_demo.mp4) — 67 seconds, unedited.
 The green mat is the calibration grid; the four red blocks at known grid positions
 are the reference markers.
 
