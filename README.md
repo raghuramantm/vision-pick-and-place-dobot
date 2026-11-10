@@ -11,6 +11,10 @@ https://github.com/<your-username>/vision-pick-and-place-dobot/raw/main/pick_and
 67 seconds, unedited. The green mat is the calibration grid; the four red blocks at known grid
 positions are the reference markers.
 
+[Watch the demo](pick_and_place_demo.mp4) — 67 seconds, unedited.
+The green mat is the calibration grid; the four red blocks at known grid positions
+are the reference markers.
+
 ## How it works
 
 **Calibration.** The arm takes one frame from its home position. Four red blocks sit at known
